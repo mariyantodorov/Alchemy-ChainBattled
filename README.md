@@ -1,13 +1,8 @@
-# Sample Hardhat Project
+# Sample NFT Project for testing purpose
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project demonstrates a basic NFT contract that stores On-Chain Metadata, deployed on Polygon Mumbai testnet.
 
-Try running some of the following tasks:
+demo contract deployed: 
+[0x8bb195EF4AC2eC09dCbd9f2496DFC6a10269ca90](https://mumbai.polygonscan.com/address/0x8bb195EF4AC2eC09dCbd9f2496DFC6a10269ca90)
+https://testnets.opensea.io/assets/mumbai/0x8bb195ef4ac2ec09dcbd9f2496dfc6a10269ca90/1
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
