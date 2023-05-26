@@ -1,6 +1,6 @@
 # Sample NFT Project for testing purpose
 
-This project demonstrates a basic NFT contract that stores On-Chain Metadata, deployed on Polygon Mumbai testnet.
+This project demonstrates a basic NFT contract that stores On-Chain Metadata, deployed on Polygon Mumbai testnet. [Alchemy guide](https://docs.alchemy.com/docs/how-to-make-nfts-with-on-chain-metadata-hardhat-and-javascript#create-the-deployment-script).
 
 demo contract deployed: 
 [0x8bb195EF4AC2eC09dCbd9f2496DFC6a10269ca90](https://mumbai.polygonscan.com/address/0x8bb195EF4AC2eC09dCbd9f2496DFC6a10269ca90)
